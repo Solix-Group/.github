@@ -13,7 +13,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
 -->
 
-*Welcome to the Official Solix Energy Australia Github Organization*
+*Welcome to the Official Solix Energy - Australia Github Organization*
 
 ## Overview
 
