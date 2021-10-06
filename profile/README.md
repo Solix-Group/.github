@@ -1,4 +1,4 @@
-![Logo](https://github.com/Solix-Group/.github/profile/solix.jpg?raw=true)
+![Logo](https://github.com/Solix-Group/.github/blob/main/profile/solix.jpg)
 
 # Solix Australia
 
