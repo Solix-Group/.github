@@ -13,8 +13,10 @@ Expansion towards scaled up projects is within our interests following the devel
 ## Projects
 Planned and active projects:    
 
-- [ ] Mini Industrial Robot Kits
-- [ ] Automated Manufacturing Technologies
+- [x] Mini Industrial Robot Kits
+- [x] 3D Printing Technologies
+- [x] Small Scale Wind Turbines
+- [x] Automated Manufacturing Technologies
 - [ ] Energy Storage Systems
 - [ ] Electrical (Renewable) integration system {ERIS}
 - [ ] Modular Sustainable Housing System {MSHS}
@@ -24,8 +26,9 @@ Planned and active projects:
 
 Project Title | Description
 ------------- | --------------
-
 Robotics Kits | Small scale programmable robotic arms for educationonal and hobbyist consumers.
+3D Printers | Affordable, quality 3D Printing systems for home use...
+Wind Turbines | Urbanised wind turbines starting with small scale applications (powerbanks).
 AMT | Full scale robotic manufacturing systems, factory integration.
 Energy Storage Systems | Exploring new methods of energy storage for urban and industrial use cases.
 ERIS | Electrical Renewable Integration System is a smart inverter to integrate renewable sources into existing grid infrastructure.
