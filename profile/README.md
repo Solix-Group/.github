@@ -2,20 +2,19 @@
 
 # Solix Australia
 
-*Welcome to the Official Solix Engineering Australia - Github Organization*
+*Welcome to the Official Solix - Github Organization*
 
 ## Overview
 
-Solix Engineering, is an Australian Engineering startup that aims to contribute to a growing need for technology and automation. By innovating the manufacturing process of existing and new technologies, we are able to make such devices more affordable and accessible. From kid-friendly robotic kits that mimic the devices used in industry to industrial scale manufacturing robotics. Our roadmap is pointed towards large scale construction projects and factory construction technology while still providing educational products for students and hobbyists that accurately represent the devices found in large businesses.
+Solix, is my personal engineering and development organisation. Software, CAD and Development progress is stored and managed in a series of github repositories below. A list of projects is shown below.
 
-Expansion towards scaled up projects is within our interests following the development of consumer grade robotics. Read below for a list of current projects.
 
 ## Projects
 Planned and active projects:    
 
 - [x] Mini Industrial Robot Kits
-- [x] 3D Printing Technologies
-- [x] Small Scale Wind Turbines
+- [ ] 3D Printing Technologies
+- [ ] Small Scale Wind Turbines
 - [x] Automated Manufacturing Technologies
 - [ ] Energy Storage Systems
 - [ ] Electrical (Renewable) integration system {ERIS}
